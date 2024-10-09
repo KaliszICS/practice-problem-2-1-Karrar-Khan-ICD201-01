@@ -1,7 +1,9 @@
 
 
 def q1(): 
-  #Write Assignment code here
+  num = int(input("input an integer: "))
+  if num/2 print ("num is even ")
+  if num print ("num is odd")
 
 
 def q2(): 
